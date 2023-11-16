@@ -1,1 +1,1 @@
-Calulator go brrrrrr
+Calulator config
